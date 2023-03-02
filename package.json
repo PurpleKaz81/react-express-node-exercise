@@ -1,10 +1,10 @@
 {
-  "name": "javascript-101",
+  "name": "basic-weather-app",
   "version": "1.0.0",
-  "description": "Starting code for First JavaScript ES6 lecture",
+  "description": "Basic weather app for JS stack practice",
   "main": "index.js",
-  "repository": "https://github.com/lewagon/webpack-boilerplate",
-  "author": "ssaunier",
+  "repository": "https://github.com/PurpleKaz81/basic-weather-app",
+  "author": "PurpleKaz81",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.6",
@@ -19,5 +19,7 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
