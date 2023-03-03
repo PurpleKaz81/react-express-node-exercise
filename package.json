@@ -1,5 +1,5 @@
 {
-  "name": "basic-weather-app",
+  "name": "react-express-node-exercise",
   "version": "1.0.0",
   "description": "Basic weather app for JS stack practice",
   "main": "index.js",
